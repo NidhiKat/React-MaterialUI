@@ -1,0 +1,22 @@
+{
+  "title": "Material demo",
+  "description": "https://stackoverflow.com/questions/50122739/material-ui-tooltip-stays-open-after-triggered-dialog-is-closed",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "material-ui-tooltip-disable-restore-focus",
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
